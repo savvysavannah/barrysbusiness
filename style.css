@@ -1,0 +1,39 @@
+body{
+/*setting the background style*/
+background-color: #a52a2a;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+/*setting the navigation*/
+nav{
+    color: #D6D5CB ;
+}
+li a{
+   color: #D6D5CB;
+}
+/* Change the link color on hover */
+a:hover{
+    font-weight: bold;
+}
+main ul {
+    line-height: 200%;
+    list-style-type: none;
+    font-size: 200%;
+    padding-inline-start: 30%;
+}
+main h1{
+    text-transform: uppercase;
+    font-size: 4em;
+    color: white;
+    text-shadow: 2px 3px 4px blanchedalmond;
+    text-align: center;
+}
+main p{
+    font-size: 1.5em;
+    padding-inline-start: 30%;
+    padding-inline-end: 25%;
+}
+img{
+    width: 25%;
+    float: left;
+}
